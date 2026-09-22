@@ -39,7 +39,13 @@ https://你的GitHub用户名.github.io/finance-agent-research/
 
 这是项目站点，不要求把仓库命名为 `用户名.github.io`。`.nojekyll` 是一个空的隐藏文件；上传界面没有显示它时，也可以在仓库中另建这个文件。对于本项目的普通 HTML，它不是阅读页面所必需的。
 
-**本交付仅包含网站文件，没有自动创建仓库或部署到任何 GitHub 账号。** GitHub Pages 站点通常公开可见，发布前请确认页面不含尚不宜公开的研究细节或个人数据。
+## 已发布站点
+
+- 在线访问：https://njurobbie.github.io/finance-agent-site/
+- GitHub 仓库：https://github.com/NJUROBBIE/finance-agent-site
+- 发布源：`main` 分支的根目录。推送更新后，GitHub Pages 会自动重新部署。
+
+仓库和网页均公开可见。
 
 GitHub 官方说明（核对于 2026-09-22）：
 - 创建站点：https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
